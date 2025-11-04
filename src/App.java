@@ -1,3 +1,10 @@
+
+/*
+ * PacMan Game
+ * https://www.youtube.com/watch?v=lB_J-VNMVpE&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng
+ * Pick back up at 37:18 / 1:08:00
+ */
+
 import javax.swing.JFrame;
 
 public class App {
@@ -27,3 +34,4 @@ public class App {
 
     }
 }
+
